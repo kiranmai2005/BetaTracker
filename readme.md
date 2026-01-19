@@ -52,6 +52,8 @@ Formula:
 * **API Docs**: Swagger (OpenAPI)
 * **Storage**: CSV / Local DB (extensible)
 
+---
+
 ## How It Works
 1. Ingest OHLCV stock and index data via API
 2. Compute returns from price data
@@ -59,6 +61,7 @@ Formula:
 4. Store computed results
 5. Serve beta values and visualization data via APIs
 
+---
 
 ## Sample Output
 - Stock beta value (numeric)
